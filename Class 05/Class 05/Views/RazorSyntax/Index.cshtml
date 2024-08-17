@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<h1>Razor Syntax</h1>
+
+
+@{
+    var name = "Mubeen";
+}
+
+<p> Hello , I am @name and the date is @DateTime.Now.ToString()</p>
+
+@{
+    var cast = "<b>Sheikh</b>";
+}
+
+
+<p>@Html.Raw(cast)</p>
+
+@{
+    var namey = "Ahmed sheikh";
+}
+Hey, @(namey.Substring(0,4)). Do You have <b>@(40 + 10)</b> rupees.
+
+
+
+@{
+    var sum = 32 + 8;
+    var greeting = "Hello World";
+    var text = "";
+    for(int i = 0; i < 3; i++)
+    {
+        text += greeting + "The result is: " + sum + "/n .    ";
+    }
+}
+
+<h2>CodeBlocks</h2>
+Text: @text

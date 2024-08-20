@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+    <h2>HTML Forms</h2>
+
+    <form method="post" enctype="multipart/form-data" asp-controller="form" asp-action="Index">
+        @Html.AntiForgeryToken()
+
+        <div class="form-group">
+            <label for="exampleInputEmail1">First Name</label>
+            <input type="text" name="fname" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Name">
+        </div>
+
+        <div class="form-group">
+            <label for="exampleInputPassword1">Last Name</label>
+            <input type="text" name="lname" class="form-control" id="exampleInputPassword1" placeholder="Last Name">
+        </div>
+
+        <div class="form-group">
+            <label for="exampleInputPassword1">Last Name</label>
+            <input type="email" name="email" class="form-control" id="exampleInputPassword1" placeholder="Last Name">
+        </div>
+
+        <div class="form-group">
+            <label for="exampleInputPassword1">Last Name</label>
+            <input type="number" name="number" class="form-control" id="exampleInputPassword1" placeholder="Last Name">
+        </div>
+
+
+        <input type="submit" value="Submit">
+        <hr />
+        @{
+            if(Model != null)
+            {
+                @Model.FirstName
+                @Model.LastName
+                @Model.Email
+                @Model.Number
+            }
+        }
+    </form>
+
+
+
+</body>
+</html>

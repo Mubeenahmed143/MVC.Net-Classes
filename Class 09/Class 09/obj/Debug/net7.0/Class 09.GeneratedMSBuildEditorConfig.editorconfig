@@ -9,45 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Class_09
 build_property.RootNamespace = Class_09
-build_property.ProjectDir = C:\Users\asp\Documents\MVC.Net Classes 2212C2\Class 09\Class 09\
+build_property.ProjectDir = C:\Users\asp\Documents\asp.net github\MVC.Net-Classes\Class 09\Class 09\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\asp\Documents\MVC.Net Classes 2212C2\Class 09\Class 09
+build_property.MSBuildProjectDirectory = C:\Users\asp\Documents\asp.net github\MVC.Net-Classes\Class 09\Class 09
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/asp/Documents/MVC.Net Classes 2212C2/Class 09/Class 09/Views/AdminCont/Index.cshtml]
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/AdminCont/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/MVC.Net Classes 2212C2/Class 09/Class 09/Views/Home/Index.cshtml]
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/MVC.Net Classes 2212C2/Class 09/Class 09/Views/Home/Privacy.cshtml]
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/MVC.Net Classes 2212C2/Class 09/Class 09/Views/Shared/Error.cshtml]
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/MVC.Net Classes 2212C2/Class 09/Class 09/Views/Shared/_Layout1.cshtml]
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Shared/partialnav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHBhcnRpYWxuYXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Shared/sidepartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHNpZGVwYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Shared/th_n_partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHRoX25fcGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Shared/_Layout1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/MVC.Net Classes 2212C2/Class 09/Class 09/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/MVC.Net Classes 2212C2/Class 09/Class 09/Views/_ViewImports.cshtml]
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Theme/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/MVC.Net Classes 2212C2/Class 09/Class 09/Views/_ViewStart.cshtml]
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/MVC.Net Classes 2212C2/Class 09/Class 09/Views/Shared/_Layout.cshtml]
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jch7wmjero

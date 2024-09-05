@@ -32,10 +32,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Shared/partialnav.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHBhcnRpYWxuYXYuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Shared/sidepartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHNpZGVwYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Theme/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/Theme/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlbWVcSW5kZXgxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Class 09/Class 09/Views/_ViewImports.cshtml]

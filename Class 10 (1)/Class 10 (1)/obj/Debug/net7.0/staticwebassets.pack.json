@@ -1,0 +1,769 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Class 10 (1).bundle.scp.css",
+      "PackagePath": "staticwebassets\\Class 10 (1).bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\css\\animate.css",
+      "PackagePath": "staticwebassets\\web\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\web\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\web\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\web\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\web\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\web\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\img_bg_1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\img_bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\img_bg_2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\img_bg_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\img_bg_3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\img_bg_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\img_bg_4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\img_bg_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\img_bg_5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\img_bg_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\web\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\loc.png",
+      "PackagePath": "staticwebassets\\web\\images\\loc.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\person1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\person1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\person2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\person2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\person3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\person3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-7.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-9.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-single-1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-single-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-single-2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-single-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-single-3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-single-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-single-4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-single-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\images\\product-single-5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\product-single-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\js\\google_map.js",
+      "PackagePath": "staticwebassets\\web\\js\\google_map.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\js\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\js\\main.js",
+      "PackagePath": "staticwebassets\\web\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\respond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\_bootstrap-compass.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\_bootstrap-compass.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\_bootstrap-mincer.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\_bootstrap-mincer.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\_bootstrap-sprockets.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\_bootstrap-sprockets.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_alerts.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_badges.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_button-groups.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_button-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_component-animations.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_component-animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_glyphicons.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_glyphicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_input-groups.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_input-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_labels.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_modals.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_navs.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_normalize.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_normalize.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_pager.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_pager.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_panels.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_panels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_popovers.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_progress-bars.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_progress-bars.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_responsive-embed.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_responsive-embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_responsive-utilities.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_responsive-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_scaffolding.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_scaffolding.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_theme.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_thumbnails.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_thumbnails.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\_wells.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\_wells.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_alerts.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_center-block.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_center-block.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_hide-text.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_hide-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_labels.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_opacity.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_opacity.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_panels.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_panels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_progress-bar.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_progress-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_reset-filter.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_reset-filter.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_responsive-visibility.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_responsive-visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_tab-focus.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_tab-focus.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_text-overflow.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_text-overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 10 (1)\\Class 10 (1)\\wwwroot\\web\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\web\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Class 10 (1).Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Class 10 (1).props",
+      "PackagePath": "build\\Class 10 (1).props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Class 10 (1).props",
+      "PackagePath": "buildMultiTargeting\\Class 10 (1).props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Class 10 (1).props",
+      "PackagePath": "buildTransitive\\Class 10 (1).props"
+    }
+  ],
+  "ElementsToRemove": []
+}

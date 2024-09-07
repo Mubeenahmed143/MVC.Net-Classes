@@ -70,55 +70,8 @@
 </head>
 <body>
 
-	<div class="fh5co-loader"></div>
 
-	<div id="page">
-		<nav class="fh5co-nav" role="navigation">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-3 col-xs-2">
-						<div id="fh5co-logo"><a href="index.html">Shop.</a></div>
-					</div>
-					<div class="col-md-6 col-xs-6 text-center menu-1">
-						<ul>
-							<li class="has-dropdown">
-								<a href="product.html">Shop</a>
-								<ul class="dropdown">
-									<li><a href="single.html">Single Shop</a></li>
-								</ul>
-							</li>
-							<li><a href="about.html">About</a></li>
-							<li class="has-dropdown">
-								<a href="services.html">Services</a>
-								<ul class="dropdown">
-									<li><a href="#">Web Design</a></li>
-									<li><a href="#">eCommerce</a></li>
-									<li><a href="#">Branding</a></li>
-									<li><a href="#">API</a></li>
-								</ul>
-							</li>
-							<li class="active"><a href="contact.html">Contact</a></li>
-						</ul>
-					</div>
-					<div class="col-md-3 col-xs-4 text-right hidden-xs menu-2">
-						<ul>
-							<li class="search">
-								<div class="input-group">
-									<input type="text" placeholder="Search..">
-									<span class="input-group-btn">
-										<button class="btn btn-primary" type="button"><i class="icon-search"></i></button>
-									</span>
-								</div>
-							</li>
-							<li class="shopping-cart"><a href="#" class="cart"><span><small>0</small><i class="icon-shopping-cart"></i></span></a></li>
-						</ul>
-					</div>
-				</div>
-
-			</div>
-		</nav>
-
-		<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url(images/img_bg_2.jpg);">
+	<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url(~/web/images/img_bg_2.jpg);">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -152,36 +105,21 @@
 					</div>
 					<div class="col-md-6 animate-box">
 						<h3>Get In Touch</h3>
-						<form action="#">
-							<div class="row form-group">
-								<div class="col-md-6">
-									<!-- <label for="fname">First Name</label> -->
-									<input type="text" id="fname" class="form-control" placeholder="Your firstname">
-								</div>
-								<div class="col-md-6">
-									<!-- <label for="lname">Last Name</label> -->
-									<input type="text" id="lname" class="form-control" placeholder="Your lastname">
-								</div>
-							</div>
+						<form method="post" asp-action="Contact" asp-controller="WebCont">
 
 							<div class="row form-group">
 								<div class="col-md-12">
 									<!-- <label for="email">Email</label> -->
-									<input type="text" id="email" class="form-control" placeholder="Your email address">
+								<input type="text" id="email" name="email" class="form-control" placeholder="Your email address">
 								</div>
 							</div>
 
-							<div class="row form-group">
-								<div class="col-md-12">
-									<!-- <label for="subject">Subject</label> -->
-									<input type="text" id="subject" class="form-control" placeholder="Your subject of this message">
-								</div>
-							</div>
+					
 
 							<div class="row form-group">
 								<div class="col-md-12">
 									<!-- <label for="message">Message</label> -->
-									<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Say something about us"></textarea>
+								<textarea id="message" cols="30" rows="10" class="form-control" name="mess" placeholder="Say something about us"></textarea>
 								</div>
 							</div>
 							<div class="form-group">
@@ -190,6 +128,7 @@
 
 						</form>
 					</div>
+				@ViewBag.message
 				</div>
 
 			</div>
@@ -211,14 +150,15 @@
 							<div class="col-md-6 col-sm-6">
 								<div class="form-group">
 									<label for="email" class="sr-only">Email</label>
-									<input type="email" class="form-control" id="email" placeholder="Email">
+									<input type="email" class="form-control" id="email" name="email" placeholder="Email">
 								</div>
 							</div>
 							<div class="col-md-6 col-sm-6">
-								<button type="submit" class="btn btn-default btn-block">Subscribe</button>
+								<button type="submit" class="btn btn-default btn-block">Submit</button>
 							</div>
 						</form>
 					</div>
+				
 				</div>
 			</div>
 		</div>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asp\\Documents\\MVC.Net Classes 2212C2\\Class 07\\Class 07\\Class 07.csproj": {}
+    "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 07\\Class 07\\Class 07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asp\\Documents\\MVC.Net Classes 2212C2\\Class 07\\Class 07\\Class 07.csproj": {
+    "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 07\\Class 07\\Class 07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asp\\Documents\\MVC.Net Classes 2212C2\\Class 07\\Class 07\\Class 07.csproj",
+        "projectUniqueName": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 07\\Class 07\\Class 07.csproj",
         "projectName": "Class 07",
-        "projectPath": "C:\\Users\\asp\\Documents\\MVC.Net Classes 2212C2\\Class 07\\Class 07\\Class 07.csproj",
+        "projectPath": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 07\\Class 07\\Class 07.csproj",
         "packagesPath": "C:\\Users\\asp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asp\\Documents\\MVC.Net Classes 2212C2\\Class 07\\Class 07\\obj\\",
+        "outputPath": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Class 07\\Class 07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -44,12 +44,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[7.0.12, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

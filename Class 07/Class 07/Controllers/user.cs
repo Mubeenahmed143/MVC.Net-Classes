@@ -4,23 +4,23 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Class_07.Controllers
 {
-	public class user : Controller
-	{
-		public IActionResult Index()
-		{
-			return View();
-		}
+    public class user : Controller
+    {
+        public IActionResult Index()
+        {
+            return View();
+        }
 
-		[HttpPost]
-		[ValidateAntiForgeryToken]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
 
-		public IActionResult Index(form from)
-		{
-			if (ModelState.IsValid)
-			{
+        public IActionResult Index(form from)
+        {
+            if (ModelState.IsValid)
+            {
 
-			}
-			return View();
-		}
-	}
+            }
+            return View();
+        }
+    }
 }

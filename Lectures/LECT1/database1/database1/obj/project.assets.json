@@ -11278,25 +11278,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sajida\\.nuget\\packages\\": {},
+    "C:\\Users\\asp\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sajida\\Desktop\\LECT1\\database1\\database1\\database1.csproj",
+      "projectUniqueName": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT1\\database1\\database1\\database1.csproj",
       "projectName": "database1",
-      "projectPath": "C:\\Users\\sajida\\Desktop\\LECT1\\database1\\database1\\database1.csproj",
-      "packagesPath": "C:\\Users\\sajida\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sajida\\Desktop\\LECT1\\database1\\database1\\obj\\",
+      "projectPath": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT1\\database1\\database1\\database1.csproj",
+      "packagesPath": "C:\\Users\\asp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT1\\database1\\database1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sajida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\asp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

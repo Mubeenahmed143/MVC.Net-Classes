@@ -509,8 +509,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\images\\3.PNG",
+      "PackagePath": "staticwebassets\\images\\3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\images\\diamond.jfif",
+      "PackagePath": "staticwebassets\\images\\diamond.jfif"
+    },
+    {
       "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\images\\onion.jfif",
       "PackagePath": "staticwebassets\\images\\onion.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\images\\stylist img 1.jpg",
+      "PackagePath": "staticwebassets\\images\\stylist img 1.jpg"
     },
     {
       "Id": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\img\\undraw_posting_photo.svg",

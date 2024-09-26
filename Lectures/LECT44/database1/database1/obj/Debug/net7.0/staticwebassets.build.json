@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NkQlKomiYH9wwgIIRrVS9OsJg4vvnEP0QX/KtgXrJCQ=",
+  "Hash": "ubYdfuPnPK55Tp173G9kbmnur8nZ5Fh7PUtEX1lqxXM=",
   "Source": "database1",
   "BasePath": "_content/database1",
   "Mode": "Default",
@@ -119,6 +119,40 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\images\\3.PNG",
+      "SourceId": "database1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\",
+      "BasePath": "_content/database1",
+      "RelativePath": "images/3.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\images\\diamond.jfif",
+      "SourceId": "database1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\",
+      "BasePath": "_content/database1",
+      "RelativePath": "images/diamond.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\diamond.jfif"
+    },
+    {
       "Identity": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\images\\onion.jfif",
       "SourceId": "database1",
       "SourceType": "Discovered",
@@ -134,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\onion.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\images\\stylist img 1.jpg",
+      "SourceId": "database1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\",
+      "BasePath": "_content/database1",
+      "RelativePath": "images/stylist img 1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\stylist img 1.jpg"
     },
     {
       "Identity": "C:\\Users\\asp\\Documents\\asp.net github\\MVC.Net-Classes\\Lectures\\LECT44\\database1\\database1\\wwwroot\\img\\undraw_posting_photo.svg",

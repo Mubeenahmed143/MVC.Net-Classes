@@ -349,7 +349,7 @@ namespace database1.Controllers
 
         public IActionResult addpro()
         {
-            ViewBag.CatID = new SelectList(db.Categories, "CatID", "CatName");
+           ViewBag.CatId = new SelectList(db.Categories, "CatId", "CatName");
             return View();
         }
 
@@ -363,16 +363,73 @@ namespace database1.Controllers
             {
                 file.CopyTo(stream);
             }
-            var dbimage = Path.Combine("/Image/", imageName);
+            var dbimage = Path.Combine("images/", imageName);
             pr.Picture = dbimage;
+            db.Products.Add(pr);
+            db.SaveChanges();
 
-            ViewBag.CatID = new SelectList(db.Categories, "CatID", "Cat_Name");
-            return RedirectToAction("product");
+            ViewBag.CatID = new SelectList(db.Categories, "CatId", "CatName");
+            return View();
 
         }
 
+        [HttpGet]
+        public IActionResult prodelete(int id)
+        {
+            var data = db.Products.Find(id);
+            return View(data);
+        }
+
+        [HttpPost]
+        public IActionResult prodelete(int id, Product vs)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Remove(vs);
+                db.SaveChanges();
+            }
+
+            return View();
+        }
 
 
+        [HttpGet]
+        public IActionResult updatepro(int id)
+        {
+            ViewBag.CatId = new SelectList(db.Categories, "CatId", "CatName");
+            var data = db.Products.Find(id);
+            return View(data);
+        }
+        [HttpPost]
+        public IActionResult updatepro(int id, Product vs,IFormFile file , string hid)
+        {
+            if(ModelState.IsValid)
+            {
+                var dbimage = "";
+                if(file != null && file.Length > 0)
+                {
+                    var imageName = Path.GetFileName(file.FileName);
+                    string imagePath = Path.Combine(HttpContext.Request.PathBase.Value, "wwwroot/images/");
+                    string imagevalue = Path.Combine(imagePath, imageName);
+                    using (var stream = new FileStream(imagevalue, FileMode.Create))
+                    {
+                        file.CopyTo(stream);
+                    }
+                    dbimage = Path.Combine("images/", imageName);
+                    vs.Picture = dbimage;
+                    db.Update(vs);
+                    db.SaveChanges();
+                }
+                else
+                {
+                    vs.Picture = hid;
+                    db.Update(vs);
+                    db.SaveChanges();
+                }
+            }
+            ViewBag.CatID = new SelectList(db.Categories, "CatId", "CatName");
+            return View();
+        }
 
 
     }

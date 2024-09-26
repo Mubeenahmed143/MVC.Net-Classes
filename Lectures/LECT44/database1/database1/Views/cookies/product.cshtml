@@ -20,6 +20,7 @@
                 @Html.DisplayNameFor(model => model.Price)
             </th>
             <th>
+                
                 @Html.DisplayNameFor(model => model.Picture)
             </th>
             <th>
@@ -44,6 +45,7 @@
                 @Html.DisplayFor(modelItem => item.Price)
             </td>
             <td>
+                    <img src="@Url.Content(item.Picture)" width="120px" height="120px">
                 @Html.DisplayFor(modelItem => item.Picture)
             </td>
             <td>
@@ -53,12 +55,12 @@
                 @Html.DisplayFor(modelItem => item.Quantity)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Cat.CatId)
+                    @Html.DisplayFor(modelItem => item.Cat.CatName)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.ProId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.ProId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.ProId">Delete</a>
+                <a asp-action="updatepro" asp-route-id="@item.ProId">Edit</a> |
+                <a asp-action="addpro" asp-route-id="@item.ProId">Add Product</a> |
+                    <a asp-action="prodelete" asp-route-id="@item.ProId">Delete</a>
             </td>
         </tr>
 }

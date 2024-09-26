@@ -44,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Lectures/LECT44/database1/database1/Views/cookies/prodelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xwcm9kZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Lectures/LECT44/database1/database1/Views/cookies/product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xwcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -62,6 +66,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Lectures/LECT44/database1/database1/Views/cookies/Updatecat.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1xVcGRhdGVjYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Lectures/LECT44/database1/database1/Views/cookies/updatepro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29va2llc1x1cGRhdGVwcm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/asp/Documents/asp.net github/MVC.Net-Classes/Lectures/LECT44/database1/database1/Views/cookies/Updateuser.cshtml]

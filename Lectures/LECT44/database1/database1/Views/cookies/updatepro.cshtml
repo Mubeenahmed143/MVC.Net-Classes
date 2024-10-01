@@ -8,6 +8,7 @@
 <h1>updatepro</h1>
 
 <h4>Product</h4>
+
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -26,7 +27,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="Picture" class="control-label"></label>
-                <input type="hidden" name="hid" value="@Model.Picture"  />
+                <input asp-for="Picture" type="hidden" name="hid" value="@Model.Picture" class="form-control" />
                 <img src="@Url.Content(Model.Picture)" width="200px" height="200px" />
                 <input asp-for="Picture" class="form-control" type="file" name="file" />
                 <label asp-for="Picture" class="control-label"></label>
